@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Camiseta Básica", "price": 15, "image": "https://via.placeholder.com/250x150?text=Camiseta+Básica" },
+    { "id": 2, "name": "Pantalón Casual", "price": 30, "image": "https://via.placeholder.com/250x150?text=Pantalón+Casual" },
+    { "id": 3, "name": "Zapatillas Deportivas", "price": 50, "image": "https://via.placeholder.com/250x150?text=Zapatillas+Deportivas" },
+    { "id": 4, "name": "Gorra Deportiva", "price": 20, "image": "https://via.placeholder.com/250x150?text=Gorra+Deportiva" }
+]
