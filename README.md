@@ -1,6 +1,6 @@
 # Danielhome - Tienda Online
 
-Este es un proyecto básico de ecommerce desarrollado para mostrar cómo crear una tienda online. Los productos son simples y están cargados desde un archivo JSON.
+Este es un proyecto básico de Danielhome desarrollado para mostrar cómo crear una tienda online. Los productos son simples y están cargados desde un archivo JSON.
 
 ## Características
 
